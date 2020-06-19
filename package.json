@@ -1,6 +1,6 @@
 {
   "name": "@zhennann/co-wxwork-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "企业微信Node库API，ES6版本",
   "main": "index.js",
   "scripts": {
